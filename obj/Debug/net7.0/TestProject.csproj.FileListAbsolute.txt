@@ -1,0 +1,14 @@
+/home/valtteri/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/valtteri/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/valtteri/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/valtteri/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/valtteri/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/home/valtteri/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/valtteri/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/valtteri/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/valtteri/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/valtteri/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/valtteri/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/valtteri/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/valtteri/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/valtteri/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
