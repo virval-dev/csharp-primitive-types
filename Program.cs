@@ -18,12 +18,15 @@ namespace Variables
             // A string isn't considered as a primitive in C# but for sake of clarity
             // here's an example how the compiler insist that strings are declared with double quotes
             string stringExam = "This is a string";
+
+            bool boolExample = true;
             
             Console.WriteLine("Byte: " + byteExample);
             Console.WriteLine("Integer: " + intExample);
             Console.WriteLine("Float: " + floatExample);
             Console.WriteLine("Char: " + charExample);
             Console.WriteLine("String: " + stringExam);
+            Console.WriteLine("Bool: " + boolExample);
         }
     }
 }
